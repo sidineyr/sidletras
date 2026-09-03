@@ -1,0 +1,9 @@
+title: SidLetras
+description: Escrita, poesia, caligrafia e projetos educacionais de Sidiney Rodrigues.
+lang: pt-BR
+url: https://sidineyr.github.io
+baseurl: /sidletras
+author: Sidiney Rodrigues
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
